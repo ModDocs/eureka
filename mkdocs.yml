@@ -1,0 +1,12 @@
+site_name: Eureka
+repo_url: https://github.com/ModDocs/eureka
+strict: true
+
+markdown_extensions:
+  - smarty
+  - urlize
+  - tables
+  - fenced_code
+
+pages:
+  - Home: index.md
