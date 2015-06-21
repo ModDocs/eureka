@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Eureka\n\n\nWelcome to the documentation of Eureka.", 
+            "text": "Eureka\n\n\nWelcome to the documentation of Eureka. This is a progression mod.", 
             "title": "Home"
         }, 
         {
             "location": "/#eureka", 
-            "text": "Welcome to the documentation of Eureka.", 
+            "text": "Welcome to the documentation of Eureka. This is a progression mod.", 
             "title": "Eureka"
         }
     ]
